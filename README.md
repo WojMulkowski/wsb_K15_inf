@@ -1,1 +1,1 @@
-# wsb_pai_dlinz_2_K15_Inf
+# wsb_K15_inf
